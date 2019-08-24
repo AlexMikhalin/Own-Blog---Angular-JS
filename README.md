@@ -1,2 +1,2 @@
-# Own-Blog---Angular-JS
+# Own-Blog - Angular-JS
 Pet-project , представляющий собой личный блог постами и комментариями. Цель проекта - освоить возможности Angular JS
